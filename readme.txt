@@ -1,5 +1,5 @@
 === French Slugs ===
-Contributors: residence mixte, amirhabibi
+Contributors: Residence mixte, amirhabibi
 Donate link: http://residence-mixte.com/
 Tags: slug, url, french, apostrophe, quotes
 Requires at least: 3.2
